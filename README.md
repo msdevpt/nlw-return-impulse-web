@@ -20,8 +20,6 @@ The application allows you to leave feedback from web and also have a [mobile](h
 
 ## Running Locally
 
-This application requires Node.js v18+.
-
 ```bash
 $ git clone https://github.com/msdevpt/nlw-return-impulse-web.git
 $ cd nlw-return-impulse-web
@@ -29,7 +27,7 @@ $ npm i
 $ npm run dev
 ```
 
-Create a `.env.local` file similar to [`.env.local.example`](https://github.com/msdevpt/nlw-return-impulse-web/blob/main/.env.local.example).
+Create a `.env.local` file similar to [`.env.local.example`](https://github.com/msdevpt/nlw-return-impulse-web/blob/master/.env.local.example).
 
 ## Credits
 
